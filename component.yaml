@@ -6,7 +6,7 @@ metadata:
   annotations:
     backstage.io/techdocs-ref: value
 spec:
-  type: service 
+  type: service
   lifecycle: production
   owner: artist-relations-team
   system: artist-engagement-portal
